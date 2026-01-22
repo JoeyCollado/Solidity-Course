@@ -31,4 +31,12 @@ Web 2
 
 Web 3
 
-![alt text](image-9.png)
+![alt text](/what-is-solidity/image-9.png)
+
+![alt text](/what-is-solidity/image-10.png)
+
+Smart Contract
+
+![alt text](/what-is-solidity/image-11.png)
+
+![alt text](/what-is-solidity/image-12.png)
