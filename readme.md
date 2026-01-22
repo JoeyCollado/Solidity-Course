@@ -22,3 +22,13 @@ You can create your own Coin/Bitcoin to use in your own platform
 Why solidity
 
 ![alt text](/what-is-solidity/image-7.png)
+
+Web 2 vs Web 3
+--------------
+Web 2
+
+![alt text](/what-is-solidity/image-8.png)
+
+Web 3
+
+![alt text](image-9.png)
