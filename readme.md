@@ -31,4 +31,4 @@ Web 2
 
 Web 3
 
-![alt text](image-9.png)
+![alt text](/what-is-solidity/image-9.png)
